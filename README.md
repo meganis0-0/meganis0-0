@@ -19,7 +19,7 @@ My passion is creating interfaces that are not only beautiful but also functiona
 ## Why me?
 Because I’m not just a developer — I’m someone who will help your product stand out from the competition. I’m ready to take responsibility for the result and make your project a true success.
 
-📩 **If you’re looking for a frontend developer who brings both skills and enthusiasm to the team, let’s discuss how we can work together!**
+📩 **If you’re looking for a frontend developer who brings both skills and enthusiasm to the team, [let’s discuss]() how we can work together!**
 
 <!---
 # 🚀 Привет! Меня зовут Никита, и я — frontend-разработчик, который превращает идеи в цифровую реальность.
